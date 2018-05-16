@@ -29,5 +29,14 @@
     <ClCompile Include="sda.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TCP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MAIN.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OPC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
